@@ -55,7 +55,5 @@ Green: The message was sent as an insecure SMS.
 <br>
 # Delivery notification
 A icon in your message indicates that it has been delivered.
-<br>
-**Note:** this only appears by default when messages are sent via Internet; to see them when sending SMS you need to enable SMS delivery report in settings.
-<br>
-**Note:** The messages you receive from your contact will always be grey. If they have a icon, they were received encrypted. If there is no icon **the message was received insecurely.**
+<b>**Note:**</b> this only appears by default when messages are sent via Internet; to see them when sending SMS you need to enable SMS delivery report in settings.
+<b>**Note:**</b> The messages you receive from your contact will always be grey. If they have a icon, they were received encrypted. If there is no icon **the message was received insecurely.**

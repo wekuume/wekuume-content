@@ -17,15 +17,15 @@ In some countries, an encryption app such as Signal may attract attention, be il
 Before starting to use Signal, you must download it. Review [the installation guide](topics/tool-2-signal/0-getting-started/4-1-howto-install.md) to learn how to do so.
 <br>
 # Requirements
-To determine whether your phone meets the requirements to use Signal, visit the project homepage at www.whispersystems.org
+To determine whether your phone meets the requirements to use Signal, visit the project [homepage](www.whispersystems.org)
 <br>
 # Android versions
 In it's current form, Signal requires Android 2.3 and up. Signal is compatible with GNU Linux, Mac OS, Android, iOS and other Microsoft Windows Compatible Programs.
 <br>
 # Communicate with
 When you use Signal you can communicate with users using the following programs:
- - Android: surespot, ChatSecure, Zom
- - iOS: surespot, ChatSecure
- - Microsoft Windows: Jitsi, Pidgin
- - Mac OS: Jitsi, Adium
- - Linux: Jitsi, Pidgin
+ * Android: surespot, ChatSecure, Zom
+ * iOS: surespot, ChatSecure
+ * Microsoft Windows: Jitsi, Pidgin
+ * Mac OS: Jitsi, Adium
+ * Linux: Jitsi, Pidgin

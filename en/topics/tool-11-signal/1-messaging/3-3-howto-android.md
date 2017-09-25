@@ -3,8 +3,7 @@ title: Message groups
 ---
 # Basics
 Signal also allows you to message multiple people at once.
-<br>
-**Note:** If at least one of the people you are messaging does not use Signal, the messages will be sent as an MMS and not encrypted.
+<b>**Note:**</b> If at least one of the people you are messaging does not use Signal, the messages will be sent as an MMS and not encrypted.
 <br>
 # Step 1: Create new group
 Tap on the top right of your screen to bring up the menu and select "New group"

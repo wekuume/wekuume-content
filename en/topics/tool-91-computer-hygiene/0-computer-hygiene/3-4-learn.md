@@ -4,8 +4,8 @@ title: Keep backups of information
 # Protect your information
 Take measures to ensure that you recover your most important information in the unfortunate event that you lose a computer either through theft, system collapse, or confiscation/destruction by your adversaries.
 <br>
-# Keep a backup
-Your best bet is to keep a backup of your important information. When creating a backup:
+# Keep in different locations
+Keeping a couple of backups in different locations is good practice, as long as these locations are secured.
 <br>
 # Identify important information
 Identify your important information and organize it in one

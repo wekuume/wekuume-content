@@ -19,7 +19,7 @@ To disconnect Orbot you touch and hold the green Orbot until it turns grey. Or i
 # Route your communication through Orbot
 In order to browse or chat on the internet anonymously, you need to install an app (browser or chat) which can route your communication through a proxy in conjunction with Orbot.
 <br>
-Refer to the related guides Tactical Technology Collective has put together for using [Orweb](https://securityinabox.org/en/women-hrds/orweb/android) and [ChatSecure](https://securityinabox.org/en/women-hrds/chatsecure/android) with Orbot.
+Refer to the related guides Tactical Technology Collective has put together for using [Orweb](https://securityinabox.org/en/guide/orweb/android/) and <b>ChatSecure</b> with Orbot.
 <br>
 # Step 4: Create a new Orbot identity
 If at any stage you want to appear to come from a new location, you can get a new identity from Orbot by swiping left or right on the green Orbot image.

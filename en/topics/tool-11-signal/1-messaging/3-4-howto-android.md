@@ -13,12 +13,14 @@ Tap the top right of your screen to bring up the menu and select "Add attachment
 ![10s.png](10s.png)
 > File type selection
 
+<br>
 # Step 3: Select the type of file
 Choose from the list the type of file that you want to send - Picture / Video / Audio
 <br>
 ![11s.png](11s.png)
 > Image sent to contact
 
+<br>
 # Step 4: Select the file
 Select the file you want to send.
 <br>

@@ -38,4 +38,3 @@ Once the QR code has been successfully scanned Signal will check that the identi
 <br>
 # Step 8: Repeat to verify yours
 Once you have verified your contact's Signal identity, they should repeat the above steps to verify yours.
-<br>
