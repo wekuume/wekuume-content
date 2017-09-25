@@ -1,5 +1,5 @@
 ---
-title: "Is your website defaced?"
+title: Is your website defaced?
 image:
 - recap4.svg
 
@@ -10,12 +10,12 @@ image:
  Verify that this is a malicious takeover of your website. An unfortunate but legal practice is to buy recently expired domain names to ‘take over’ the traffic they had for advertising purposes.
 <br>
 # Make payments on time
-To prevent this, it is very important to keep payments for your domain name in order.
+To prevent this, it is very important to keep payments for your domain name on time.
 <br>
 > Step 2
 # Regain control of your website
 
-If your website has been defaced, first regain control of your website login account and reset its password, see the [Account Hijacking](topics/practice-1-emergencies/2-account-hijacked/1-1-intro.md) lesson for help.
+If your website has been defaced, first regain control of your website login account and reset its password, see the Account Hijacking lesson for help.
 <br>
 > Step 3
 # Make a backup of the defaced website
@@ -38,7 +38,7 @@ Common problems are older parts of your site with custom scripts/tools running o
 > Step 6
 # Restore your original website
 
-Restore your original from backups. If neither you, nor your hosting company have backups, you may have to re-build your website from scratch!
+Restore your original from backups. If neither you nor your hosting company have backups, you may have to re-build your website from scratch!
 <br>
 # Keep backups off your hosting provider
 Also note that if your only backups are at your hosting provider, an attacker may be able to delete those when they take control of your site!

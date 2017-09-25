@@ -3,9 +3,7 @@ title: Choose the right lesson
 images:
 - recap2.svg
 ---
-If you know a trained professional that could help you, the seeking help lesson will explain how to contact them safely.
-* Choose the [Seeking Help](topics/practice-1-emergencies/1-seek-help) lesson
-* Or swipe to continue...
+Seeking help lesson will explain how to contact a trained professional safely.
 <br>
 Are you locked out of your social media or email account? Seeing unusual activity?
 * Choose the [Account Hijacked](topics/practice-1-emergencies/2-account-hijacked) lesson

@@ -1,5 +1,5 @@
 ---
-title: "Getting your site back up"
+title: Getting your site back up
 image:
 - recap3.svg
 
@@ -18,17 +18,15 @@ Ask your webmaster to change the ‘Time to Live’ or TTL to 1 hour. This can h
 If you are trying to do this yourself: This setting will often be found in ‘advanced’ properties for your domain, sometimes part of the SRV or Service records. Refer to the [guide put together by Gandi](https://wiki.gandi.net/en/dns/change) or work with the company you bought your domain from (like EasyDNS, Network Solutions, GoDaddy).
 <br>
 > Step 3
-# Use a DDoS Migitation service
-
+# Use a DDoS Mitigation service
 Have your webmaster move your site to a DDoS mitigation service. Examples:
-- [Deflect.ca]
-- [Google’s Project Shield]
-- [CloudFlare’s Project Galileo]
+- [Deflect.ca](https://deflect.ca/)
+- [Google’s Project Shield](https://projectshield.withgoogle.com/public/)
+- [CloudFlare’s Project Galileo](https://www.cloudflare.com/galileo/)
 <br>
-If you are doing this yourself [refer to the guide Electronic Frontier Foundation](https://www.eff.org/keeping-your-site-alive) has put together
+If you are doing this yourself [refer to the guide Electronic Frontier Foundation](https://www.eff.org/) has put together
 > Step 4
 # Review your needs
-
 As soon as you have regained control, review your needs and decide between a secure hosting provider or simply continuing with your DDoS mitigation service
 <br>
 > DDoS mitigation services protect your website from being overloaded

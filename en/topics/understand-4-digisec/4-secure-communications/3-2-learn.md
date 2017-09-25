@@ -2,7 +2,7 @@
 title: If your communications are compromised
 ---
 # Consider the consequences
-In your communications are compromised, case you have to consider the consequence for yourself and your contact to reveal information about the emergency.
+In case your communications are compromised, you will have to consider the consequence for yourself and your contact you have been exchanging information with.
 <br>
 # Stop using the communication channel
 **Stop using the communications services/accounts that you believe are compromised immediately.** Create a new account and remember not to re-use your existing usernames, passwords or email accounts.

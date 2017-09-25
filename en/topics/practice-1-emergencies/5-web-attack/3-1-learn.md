@@ -1,5 +1,5 @@
 ---
-title: "What is a DDOS attack?"
+title: What is a DDOS attack?
 images:
 - recap1.svg
 ---

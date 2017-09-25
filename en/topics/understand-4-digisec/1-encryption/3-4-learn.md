@@ -7,5 +7,5 @@ title: Key fingerprints
 # Checking fingerprints
 If you check that someone's key fingerprint is correct, that gives you a higher degree of certainty that it's really them.
 <br>
-# Fingerprints aren't perfect verifier
+# Fingerprints aren’t the perfect verifier
 But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.

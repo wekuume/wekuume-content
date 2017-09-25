@@ -1,3 +1,6 @@
+---
+title: How to send and receive with Signal
+---
 Below are the steps that you will take to send and receive encrypted text using Signal:
 
 - Sending and Receiving messages
@@ -8,8 +11,8 @@ Below are the steps that you will take to send and receive encrypted text using 
 - Scanning Fingerprints
 - Export your messages
 
-
-##  **[1] Sending and Receiving messages**
+<br>
+#  **[1] Sending and Receiving messages**
 
 **Note:** To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.
 
@@ -17,7 +20,8 @@ Signal can send messages as SMS using your mobile phone company to relay the mes
 
 If your phone is connected to the Internet, either using a data connection offered by your mobile phone company or using local wifi, Signal will instead send the message over an encrypted connection with a WhisperSync server. In this instance, your mobile phone company will not know who you are sending your messages to.
 
-## **[2] Messaging Individuals**
+<br>
+# **[2] Messaging Individuals**
 
 **Step 1:** Open Signal and tap at the top of your screen to bring up your contact list.
 
@@ -39,7 +43,8 @@ Note If you send a message to another Signal user and you are connected to the I
 ![3s.png]({{site.baseurl}}/media/3s.png)
 Figure 2 & 3: Sent message / Alternative sending options
 
-## _Things You Should Know_
+<br>
+# _Things You Should Know_
 
 Your sent messages are given different background colours / indicators to help you identify how they were sent:
 
@@ -63,7 +68,8 @@ A icon in your message indicates that it has been delivered. Note: the only appe
 
 The messages you receive from your contact will always be grey. If they have a icon, they were received encrypted. If there is no icon **the message was received insecurely.**
 
-## **[3] Messaging Groups**
+<br>
+# **[3] Messaging Groups**
 
 Signal also allows you to message multiple people at once.
 
@@ -88,7 +94,8 @@ Figure 7 & 8: Contact selection & Group Creation
 ![9s.png]({{site.baseurl}}/media/9s.png)
 Figure 9: Group conversation
 
-## [4] Sending Files
+<br>
+# [4] Sending Files
 
 Signal allows you to send images, video and audio files to your contact.
 
@@ -108,11 +115,12 @@ Signal allows you to send images, video and audio files to your contact.
 ![11s.png]({{site.baseurl}}/media/11s.png)
 Figure 10 & 11: File type selection / Image sent to contact
 
-## [5] Identity Verification
+<br>
+# [5] Identity Verification
 
 To confirm that the messages you are sending and receiving are with the right person, you should both verify your Signal identities with each other.
 
-## [6] Reading Fingerprints
+# [6] Reading Fingerprints
 The Following steps will need to be performed by both parties.
 
 **Step 1:** Open an existing conversation with your contact and tap at the top of the screen.
@@ -124,7 +132,8 @@ The Following steps will need to be performed by both parties.
 ![13s.png]({{site.baseurl}}/media/13s.png)
 Figure 12: Signal fingerprints
 
-## [7] Scanning Fingerprints
+<br>
+# [7] Scanning Fingerprints
 
 **Note:** To verify fingerprints by scanning you need to have Barcode Scanner installed on your phone. If it is not available on your phone at the time of scanning Signal will download and install the app for you.
 
@@ -148,6 +157,7 @@ The Following steps will need to be performed by both parties.
 ![15s.png]({{site.baseurl}}/media/15s.png)
 Figure 13 & 14: Your contact's QR code / Barcode scanner
 
+<br>
 **Step 7:** Once the QR code has been successfully scanned Signal will check that the identity is valid.
 
 ![16s.png]({{site.baseurl}}/media/16s.png)
@@ -155,7 +165,8 @@ Figure 15: Signal identity verified
 
 **Step 8:** Once you have verified your contact's Signal identity, they should repeat the above steps to verify yours.
 
-## [8] Export your messages
+<br>
+# [8] Export your messages
 Note: While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
 
 **Step 1:** Tap on in the top right of the main Signal screen to bring up the menu and select .

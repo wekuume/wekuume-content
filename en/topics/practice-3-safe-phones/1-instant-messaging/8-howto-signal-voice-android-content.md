@@ -1,3 +1,6 @@
+---
+title: Make a call with Signal
+---
 Make a call
 
 Tap on a contact. If they have Signal there will be a padlock on the top right of the screen.
@@ -9,7 +12,8 @@ This makes sure you are both who you say you are.
 
 ![10s.png]({{site.baseurl}}/media/10s.png)
 
-Take a call
+<br>
+# Take a call with Signal
 
 When you get a signal call, you'll see on your screen "SIGNAL CALL"
 

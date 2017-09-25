@@ -1,5 +1,5 @@
 ---
-title: Five steps to Conducting a threat assessment
+title: Five steps to conducting a threat assessment
 ---
 
 > Step 1.
@@ -17,7 +17,7 @@ This could be any person or entity that poses a threat against an your or your w
 <br>
 Examples could be a government, a company you are exposing, your boss, or a hacker.
 <br>
-Make a list of who might want to get ahold of your data or communications. It might be an individual, a government agency, or a corporation.
+Make a list of who might want to get a hold of your data or communications. It might be an individual, a government agency, or a corporation.
 <br>
 
 > Step 3

@@ -2,7 +2,7 @@
 title: Choosing a strong password
 ---
 # Use a password manager
-A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](topics/tool-4-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
+A password should be difficult for a computer program to guess, difficult for others to figure out, and should be chosen so as to minimise damage if someone does learn it. We recommend you use a [Password Manager like KeePassX](topics/tool-31-keepassx/0-getting-started/1-1-intro.md) to keep track of your passwords.
 <br>
 # Make it long:
 The longer a password is, the longer it takes to guess it. Use more than ten characters or ideally a long phrase or sentence. Short passwords of any kind, even totally random ones, are not strong enough for use with encryption today.
@@ -17,7 +17,7 @@ Don't choose a word or phrase based on information such as you name, telephone n
 Don't share your password with anybody unless absolutely necessary! If you must share a password with a family member or colleague, you should change it to a temporary password first, share that one, then change it back when they are done using it.
 <br>
 # Keep it unique:
-Don’t use the same password across devices or for multiple accounts. Otherwise anyone who learns that password will be able to access all accounts with the same password
+Don’t use the same password across devices or for multiple accounts. Otherwise anyone who learns that password will be able to access all accounts with the same password.
 <br>
 # Keep it fresh:
 It's important to change your passwords regularly, regardless of how strong of a password you have. We recommend you change your password at least once every three months.
