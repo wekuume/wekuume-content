@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/wekuume/wekuume-content.svg?branch=master)](https://travis-ci.org/wekuume/wekuume-content)
 
-# Wekuume Content repository
+# Wekuume Platform Content
 
 A platform to help mentors access and share practical reusable information and educational content. 
 
