@@ -2,8 +2,8 @@ default: validate
 
 help:
 	@echo "Commands:"
-	@echo "	make							TODO Validate content"
-	@echo "	make install			Trigger openmentoring-content build"
+	@echo "	make					TODO Validate content"
+	@echo "	make install			Trigger wekuume-content build"
 	@echo ""
 
 validate: 
