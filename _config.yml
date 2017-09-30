@@ -1,4 +1,4 @@
-name: Open Mentoring
+name: Wekuume
 markdown: redcarpet
 pygments: true
 permalink: /:categories/:title.html
@@ -10,7 +10,7 @@ languages: &languages
   - name: 'Français'
     value: 'fr'
 prose:
-  siteurl: 'https://openmentoring.io'
+  siteurl: 'https://wekuume.com'
   ignore:
     - .gitignore
     - .travis.yml

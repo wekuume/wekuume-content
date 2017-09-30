@@ -1,10 +1,13 @@
----
 sudo: false
 dist: trusty
 language: node_js
 node_js:
-  - "4.1"
+- '4.1'
 script:
-  - make
+- make
 after_script:
-  - test $TRAVIS_TEST_RESULT == "0" && test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && make install
+- test $TRAVIS_TEST_RESULT == "0" && test $TRAVIS_PULL_REQUEST == "false" && test
+  $TRAVIS_BRANCH == "master" && make install
+env:
+  global:
+    secure: CDEuBhb4Y1WMKkQ9+d4uH36UnJQGfF3LnTshAaPDhrEJMJnYGD0FmKv/cPPqbM25/Z9vM+ZzWyNnoEskwdQOrV5jiE5lbRUFvMIKVMgHWuOZUmR+vuZXKIZ3PGx56/BC5AOgur7PESpqYDuQ7beN7s4BCFziiXInIOPhU/gfjN2rPQ1IFxqHY4LT6PQ81wUWlnH6/7BRLL4aIN7+BIy75rDvdQvKVOucFXcwJKostK44/ReSPzSqtt9pDJGLNx6/J7waG29erkWQTf0WDkt4el+Z15/Q2v9aRyS5fWOV7Zm3SJE1aoszOXCoH0iXbHUADwfKL98uhp2GtKQBNs3Q5RROshdmh3GhIhRkr8fq0LF3U1lW8OMDFBWcThdpgE2fJ19mspM1Z05GRepeOxAhBNpzp7XoGMqNSIWh3z634yKIZxoLa20hmfMLLyUriipCDiKtXBBxbz2DCCj8yWCxzNqMyDZvdZBzPt7x6JCoaozGGz+eR8YR/fuqEsAuMI6rXmkOruiy6A9w454X3rL4SIjEah77rHPOPaL5aHgvsTuc1ZTWTqCha3099vE8GW75rw9vuGyac45ToukQ3akgVcXeoR5RIrHPiAh+7po2YQeTjx5LVxCMhdSSwFtXGQ12ywzWjOykCO5DT4ft4Lqwh4miaDIhZw3Ezz/WnH77MSE=
