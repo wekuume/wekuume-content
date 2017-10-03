@@ -5,10 +5,6 @@ permalink: /:categories/:title.html
 languages: &languages
   - name: 'English'
     value: 'en'
-  - name: 'Español'
-    value: 'es'
-  - name: 'Français'
-    value: 'fr'
 prose:
   siteurl: 'https://wekuume.com'
   ignore:
