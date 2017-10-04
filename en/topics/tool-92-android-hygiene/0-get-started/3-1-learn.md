@@ -12,7 +12,7 @@ Set up a Screen Lock, found under *Settings -> Personal -> Security -> Screen Lo
 <br>
 # Set up a Screen Lock
 We recommended using the PIN or Password option, as these are not restricted by length. Refer to the [Passwords](/en/topics/understand-4-digisec/2-passwords/1-1-intro.md) lesson to learn how to create a strong password.
-<br.
+<br>
 # Set security lock timer
 Set the security lock timer, which will automatically lock your phone after a specified time.
 <br>
