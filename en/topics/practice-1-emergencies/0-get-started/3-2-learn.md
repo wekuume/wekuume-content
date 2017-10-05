@@ -27,4 +27,4 @@ Have you just gotten through an emergency? Not sure what to do when the dust set
 <br>
 > You've just learned the different lessons available for **Dealing with emergencies**
 <br>
-[<button class="button-save large">next lesson</button>](topics/practice-1-emergencies/1-seeking-help/1-1-intro.md)
+[<button class="button-save large">next lesson</button>](topics/practice-1-emergencies/1-seeking-help/1-1-intro.md) {: .btn}
