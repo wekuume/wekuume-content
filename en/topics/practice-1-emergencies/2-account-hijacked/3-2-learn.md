@@ -1,5 +1,5 @@
 ---
-title: Confirm if your account has been hijacked
+title: "Confirm if your account has been hijacked"
 images:
 - recap2.svg
 ---

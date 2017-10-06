@@ -1,5 +1,5 @@
 ---
-title: Get back control of your account
+title: "Get back control of your account"
 images:
 - recap1.svg
 ---

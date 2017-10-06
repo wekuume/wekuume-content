@@ -1,5 +1,5 @@
 ---
-title: Other places to check for suspicious activity
+title: "Other places to check for suspicious activity"
 ---
 # Step 1: Email forwarding
 Check for suspicious addresses which your email might be automatically forwarding your emails to.
