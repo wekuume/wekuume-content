@@ -1,3 +1,6 @@
+---
+title: Scenario
+---
 Henry and Grace are journalists in a Kampala suburb who mantain a blog on which they anonymously publicise corruption practices and campaign for political change. 
 
 <br>

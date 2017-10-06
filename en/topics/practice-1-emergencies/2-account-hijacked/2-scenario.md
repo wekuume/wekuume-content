@@ -1,5 +1,5 @@
 ---
-title: "A suspicious email..."
+title: A suspicious email...
 image:
 - scenario1.svg
 - scenario2.svg

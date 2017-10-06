@@ -1,5 +1,5 @@
 ---
-title: "Learn how to"
+title: Learn how to
 ---
 - [Identify a DDOS attack](topics/practice-1-emergencies/5-ddos/3-1-learn.md)
 - [Know if your website is down or defaced for another reason](topics/practice-1-emergencies/5-ddos/3-2-learn.md)

@@ -19,4 +19,4 @@ Tor Browser Bundle can be used to increase your security and privacy while visit
 For detailed instructions on using the Tor Browser Bundle, refer to the Using the Internet Anonymously lesson.
 <br>
 # Using a smartphone
-For detailed instructions on communicating safely on a smartphone, refer to the [Safe Phones](topics/practice-3-safe-phones/0-getting-started/1-intro.md) section.
+For detailed instructions on communicating safely on a smartphone, refer to the Safe Phones section.

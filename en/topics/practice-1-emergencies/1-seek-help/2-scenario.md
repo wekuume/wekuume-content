@@ -1,5 +1,5 @@
 ---
-title: "Seeking help..."
+title: Seeking help
 images:
 - scenario1.svg
 - scenario2.svg

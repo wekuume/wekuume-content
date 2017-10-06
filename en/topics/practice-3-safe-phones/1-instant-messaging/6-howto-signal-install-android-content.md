@@ -1,7 +1,6 @@
 ---
-title: How to install signal
+title: Learn
 ---
-This how to will go through the following steps 
  - **(1) How to Install Signal**
  - **(2) Registering with Signal**
  - **(3) Configuring Signal**
