@@ -11,4 +11,6 @@ Some providers will send a link to change your password to your recovery email a
 If these steps do not work and your account is being abused, contact the platform provider directly. Most providers have a "Support" page where you can find out how to do this.
 <br>
 # Helpful organisations
-There are a number of [organizations](topics/practice-1-emergencies/1-seeking-help/3-5-learn.md) which can help you with this process.
+There are a number of organizations which can help you with this process.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

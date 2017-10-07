@@ -22,5 +22,7 @@ Say one word to your friend and ask them to say the other world.
 This makes sure you are both who you say you are.
 
 ![11s.png]({{site.baseurl}}/media/11s.png)
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.
 
 

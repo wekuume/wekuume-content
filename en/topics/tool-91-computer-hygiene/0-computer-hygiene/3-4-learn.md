@@ -30,3 +30,5 @@ You can also store your backups on remote servers via the internet – on what i
 <br>
 # Recommended remote backup services
 Consider secure services like [Tresorit](https://tresorit.com) and [SpiderOak](https://spideroak.com/), which are both quite secure and reliable.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

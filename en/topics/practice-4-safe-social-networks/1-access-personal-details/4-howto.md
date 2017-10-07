@@ -18,3 +18,5 @@ If you place your mouse cursor over it, you will see an icon which can be a glob
 Clicking on this icon will bring up a menu where you can change this setting:
 
 ![Screen Shot 2015-11-20 at 17.00.25.png](Screen Shot 2015-11-20 at 17.00.25.png)
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

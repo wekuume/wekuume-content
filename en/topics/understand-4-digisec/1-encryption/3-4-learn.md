@@ -9,3 +9,5 @@ If you check that someone's key fingerprint is correct, that gives you a higher 
 <br>
 # Fingerprints aren’t the perfect verifier
 But it's not perfect, because if the keys are copied or stolen someone else would be able to use the same fingerprint.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

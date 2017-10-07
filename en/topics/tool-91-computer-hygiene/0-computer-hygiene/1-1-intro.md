@@ -1,4 +1,4 @@
 ---
 title: "Get started"
 ---
-Learn to use common computer hygiene practices.
+- **Learn to use common computer hygiene practices**

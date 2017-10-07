@@ -20,3 +20,5 @@ title: Enable encrypted storage
 
 ![](https://securityinabox.org/sbox/screen/textsecure-en-1/021.png)
 > Signal timeout settings
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

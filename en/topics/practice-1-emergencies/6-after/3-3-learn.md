@@ -16,3 +16,5 @@ Traumatic stress is a normal reaction to an abnormal situation. It's very possib
 To learn about what traumatic stress is, how it affects you, and how to deal with it, refer to the Your Well-Being unit presented elsewhere in this tool.
 <br>
 > Stress after trauma is a normal reaction to an abnormal situation.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

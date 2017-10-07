@@ -18,3 +18,5 @@ RedPhone (for voice) and TextSecure (for SMS) by WhisperSystems are good, but bo
 <br>
 # Secure Android messaging apps:
 Orbot by The Guardian Project and the Tor Project allows you to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. For more information, refer to the Orbot lesson
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

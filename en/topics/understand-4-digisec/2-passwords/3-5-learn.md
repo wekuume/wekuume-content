@@ -6,3 +6,5 @@ Take advantage of online services that offer two-factor authentication. These pr
 <br>
 # Input your code
 You input the code to verify that you are indeed the person trying to access the account. Google, Twitter and Dropbox were the first to offer this procedure. However now, the practice is widespread in common service providers.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

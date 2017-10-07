@@ -50,3 +50,5 @@ You may close the black confirmation section of the window by clicking on the wh
 <br>
 # Encrypted group calls
 Jitsi lets you voice and video chat with more than one person. Note that with this communication, ZRTP encryption can be engaged between initiator of the call and other parties, but not between parties themselves.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

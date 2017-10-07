@@ -27,3 +27,5 @@ Note: Remember that making changes to a KeePassX entry only updates that entry i
 <br>
 # Update relevant account information
 Therefore, you will need to make any relevant updates to your account information, as well as new KeePassX database backups and copies seperately after editing your entry here.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

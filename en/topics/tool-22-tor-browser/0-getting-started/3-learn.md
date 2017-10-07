@@ -49,3 +49,5 @@ A proxy is a software intermediary that runs on your computer, on your local net
 <br>
 # Definitions: Route
 A route is the communication path on the Internet between your computer and the destination server.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

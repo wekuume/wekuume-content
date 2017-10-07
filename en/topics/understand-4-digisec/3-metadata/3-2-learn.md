@@ -21,3 +21,5 @@ Emails contain metadata as well. The author of the email, the email recipient, s
 <br>
 # Metadata can reveal your communication
 Even if the content of your emails is encrypted, metadata from email communication can be used to identity who you are communicating with and when.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

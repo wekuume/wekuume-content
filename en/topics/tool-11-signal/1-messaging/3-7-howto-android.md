@@ -23,3 +23,5 @@ Signal will confirm the export has completed by displaying "Success!" You will f
 <br>
 ![18s.png](18s.png)
 > Export confirmation screens
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

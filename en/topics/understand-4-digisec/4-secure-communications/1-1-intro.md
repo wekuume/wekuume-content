@@ -1,4 +1,4 @@
 ---
 title: Get started
 ---
-Learn about using secure communications.
+- **Learn about using secure communications**

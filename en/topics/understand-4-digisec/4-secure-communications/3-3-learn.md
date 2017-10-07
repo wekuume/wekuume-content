@@ -20,3 +20,5 @@ For detailed instructions on using the Tor Browser Bundle, refer to the Using th
 <br>
 # Using a smartphone
 For detailed instructions on communicating safely on a smartphone, refer to the Safe Phones section.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

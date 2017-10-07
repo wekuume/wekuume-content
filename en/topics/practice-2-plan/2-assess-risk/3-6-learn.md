@@ -15,3 +15,5 @@ In these cases it can be useful to think of the different threats in terms of th
 | Impact      | Low | Medium   | High                      | Catastrophic |
 <br>
 Once you have prioritised the risks to yourself and your work, you can then start to take action to reduce them through building the relavent capacities and integrating them into a security plan.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

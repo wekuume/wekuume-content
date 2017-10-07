@@ -31,3 +31,5 @@ Why would they want access to it? This will help you know whether the informatio
 Are there signs that the device has been physically tampered with? This will help you know whether malware might have been installed on the device and whether or not you should us it again.
 <br>
 > Beware of malware!
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

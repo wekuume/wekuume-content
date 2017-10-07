@@ -1,5 +1,5 @@
 ---
-title: Private and public keys
+title: Private and Public keys
 ---
 # Keys
 One of the most important concepts to understand in encryption is a key.

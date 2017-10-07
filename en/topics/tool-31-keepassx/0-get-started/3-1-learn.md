@@ -9,3 +9,5 @@ To enhance convenience, you can synchronise your password database - for example
 <br>
 # Setting up KeePassX
 Refer to the [guide](https://securityinabox.org/en/guide/keepassx/os-x) by Tactical Technology Collective which will assist you in downloading, installing, and using KeePassX.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

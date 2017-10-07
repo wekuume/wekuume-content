@@ -12,7 +12,7 @@ Below are the steps that you will take to send and receive encrypted text using 
 - Export your messages
 
 <br>
-#  **[1] Sending and Receiving messages**
+#  Sending and Receiving messages
 
 **Note:** To send encrypted messages to your contacts, they must also have Signal installed, otherwise the message will be sent as an insecure SMS.
 
@@ -21,7 +21,7 @@ Signal can send messages as SMS using your mobile phone company to relay the mes
 If your phone is connected to the Internet, either using a data connection offered by your mobile phone company or using local wifi, Signal will instead send the message over an encrypted connection with a WhisperSync server. In this instance, your mobile phone company will not know who you are sending your messages to.
 
 <br>
-# **[2] Messaging Individuals**
+# Messaging Individuals
 
 **Step 1:** Open Signal and tap at the top of your screen to bring up your contact list.
 
@@ -69,7 +69,7 @@ A icon in your message indicates that it has been delivered. Note: the only appe
 The messages you receive from your contact will always be grey. If they have a icon, they were received encrypted. If there is no icon **the message was received insecurely.**
 
 <br>
-# **[3] Messaging Groups**
+# Messaging Groups
 
 Signal also allows you to message multiple people at once.
 
@@ -95,7 +95,7 @@ Figure 7 & 8: Contact selection & Group Creation
 Figure 9: Group conversation
 
 <br>
-# [4] Sending Files
+# Sending Files
 
 Signal allows you to send images, video and audio files to your contact.
 
@@ -116,7 +116,7 @@ Signal allows you to send images, video and audio files to your contact.
 Figure 10 & 11: File type selection / Image sent to contact
 
 <br>
-# [5] Identity Verification
+# Identity Verification
 
 To confirm that the messages you are sending and receiving are with the right person, you should both verify your Signal identities with each other.
 
@@ -133,7 +133,7 @@ The Following steps will need to be performed by both parties.
 Figure 12: Signal fingerprints
 
 <br>
-# [7] Scanning Fingerprints
+# Scanning Fingerprints
 
 **Note:** To verify fingerprints by scanning you need to have Barcode Scanner installed on your phone. If it is not available on your phone at the time of scanning Signal will download and install the app for you.
 
@@ -166,7 +166,7 @@ Figure 15: Signal identity verified
 **Step 8:** Once you have verified your contact's Signal identity, they should repeat the above steps to verify yours.
 
 <br>
-# [8] Export your messages
+# Export your messages
 Note: While Signal allows you to export your messages, the messages in the backup file will not be encrypted and you should take additional steps to protect its contents.
 
 **Step 1:** Tap on in the top right of the main Signal screen to bring up the menu and select .

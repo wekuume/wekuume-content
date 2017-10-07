@@ -10,7 +10,7 @@ Type in a name for your KeePassX database and {click} Save. You can store it on 
 If you are worried that someone with access to your computer might see this file and demand that you tell them your master passphrase, you should probably come up with a less conspicuous name.
 <br>
 # Step 3. Confirm you remember your password
-Find and re-open your database using your [master passphrase](topics/tool-4-keepassx/1-create-database/3-1-howto.md) before you start adding new password entries to it.
+Find and re-open your database using your master passphrase before you start adding new password entries to it.
 <br>
 # Step 4. Closing your database.
 There are three ways to close your database:
@@ -29,3 +29,5 @@ Tip: If your Finder Preferences (Finder Preferences > Advanced) are set to ‘Sh
 <br>
 # Remember your password
 Tip: If you were unable to open your database because you forgot the master password, there is no way to open your data base, and there is no way to reset or retrieve your master password. If you are unable to remember it, you can create a new database and delete the first one.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

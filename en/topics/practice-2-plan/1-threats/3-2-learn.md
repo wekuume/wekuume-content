@@ -54,3 +54,5 @@ Many people find certain threats unacceptable no matter what the risk, because t
 Based on the results of your risk analysis, you will be able to better determine how much trouble you will need to go through in order to prevent a threat from causing damage.
 <br>
 Make sure to include responses to threats in your emergency plan.
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

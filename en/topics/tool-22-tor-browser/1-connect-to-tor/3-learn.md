@@ -33,3 +33,5 @@ Turning the security slider to a high setting disables these features. This will
 # Everyday protection
 Unfortunately, turning off these features can make some websites unusable. The default low setting is fine for everyday privacy protection, but you can set it to high if you are worried about sophisticated attackers, or if you don't mind if some websites do not display correctly.
 ![](013e.png)
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

@@ -1,5 +1,5 @@
 ---
-title: What is encryption
+title: What is encryption?
 ---
 # Basics
 Encryption is the mathematical science of codes, ciphers, and secret messages.

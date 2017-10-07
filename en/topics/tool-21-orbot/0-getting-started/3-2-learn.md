@@ -27,3 +27,5 @@ If at any stage you want to appear to come from a new location, you can get a ne
 # Recieve confirmation
 The image will briefly spin and then display You've switched to a new Tor Identity.
 ![orbot-and-022.png](orbot-and-022.png)
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

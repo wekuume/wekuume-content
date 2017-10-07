@@ -49,3 +49,5 @@ The default settings make it as easy as possible for individuals to find you thi
 # Step 8. Control who can look you up
 Click Edit on the first two options and ensure that only Friends can search for you by your e-mail address and phone number. For the third option, click Edit and uncheck the box which says Let other search engines link to your timeline.
 ![facebook-all-25.png](facebook-all-25.png)
+<br>
+This is the end of the lesson. Please click the Home button on your left to go back to the menu.

@@ -1,11 +1,11 @@
 ---
 title: Learn
 ---
- - **(1) How to Install Signal**
- - **(2) Registering with Signal**
- - **(3) Configuring Signal**
+ - **How to Install Signal**
+ - **Registering with Signal**
+ - **Configuring Signal**
 <br>
-# (1) How To Install Signal
+# How To Install Signal
  - Download from the Playstore
  - Review the permissions
  - Launch the Signal app
@@ -23,7 +23,7 @@ Figure 2: Permissions required
 
 Step 3. Tap Open to run the app for the first time
 <br>
-# (2) Registering with Signal
+# Registering with Signal
  - Enter your phone number
  - Receive an SMS.
  
@@ -45,7 +45,7 @@ Note: If for some reason you do not receive the SMS you will be given the option
 Figure 5 & 6: Registration completing and Voice verification screens
 
 <br>
-# (3) Configuring Signal
+# Configuring Signal
  - Importing Messages
  - Making Signal the Default Message App
  - Encrypted Storage
