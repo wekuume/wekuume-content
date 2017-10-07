@@ -1,6 +1,6 @@
 ---
 title: "Learn how to"
 ---
-- **Verify the problem**
-- **Find the right lesson for you**
+- __Verify the problem__
+- __Find the right lesson for you__
 - Or swipe to continue...
