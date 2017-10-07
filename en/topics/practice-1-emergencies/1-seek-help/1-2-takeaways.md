@@ -5,7 +5,7 @@ title: "Learn how to"
 - [Identify which channels are encrypted](topics/practice-1-emergencies/1-seeking-help/3-2-learn.md)
 - Or swipe to continue...
 <br>
-- [Seek remote help](topics/practice-1-emergencies/1-seeking-help/3-3-learn.md)
-- [Establish trust when reaching out](topics/practice-1-emergencies/1-seeking-help/3-5-learn.md)
-- [Contact organisations for help](topics/practice-1-emergencies/1-seeking-help/3-4-learn.md)
+- [Seek remote help](topics/practice-1-emergencies/1-seek-help/3-3-learn.md)
+- [Establish trust when reaching out](topics/practice-1-emergencies/1-seek-help/3-5-learn.md)
+- [Contact organisations for help](topics/practice-1-emergencies/1-seek-help/3-4-learn.md)
 - Or swipe to continue...
