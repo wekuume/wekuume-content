@@ -1,5 +1,5 @@
 ---
-title: Choose the right lesson
+title: "Choose the right lesson"
 images:
 - recap2.svg
 ---

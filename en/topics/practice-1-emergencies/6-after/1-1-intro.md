@@ -1,5 +1,5 @@
 ---
-title: After an emergency
+title: "After an emergency"
 images:
 - unit.svg
 ---

@@ -1,5 +1,5 @@
 ---
-title: Getting your site back up
+title: "Getting your site back up"
 image:
 - recap3.svg
 

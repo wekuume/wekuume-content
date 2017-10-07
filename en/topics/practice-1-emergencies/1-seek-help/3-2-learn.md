@@ -1,5 +1,5 @@
 ---
-title: Encrypted channels
+title: "Encrypted channels"
 images:
 - recap2.svg
 ---

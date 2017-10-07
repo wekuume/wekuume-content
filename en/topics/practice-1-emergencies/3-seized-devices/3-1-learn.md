@@ -1,5 +1,5 @@
 ---
-title: Assess the situation
+title: "Assess the situation"
 images:
 - recap1.svg
 ---

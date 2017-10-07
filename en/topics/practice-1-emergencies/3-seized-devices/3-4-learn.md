@@ -1,5 +1,5 @@
 ---
-title: Contacts and linked accounts
+title: "Contacts and linked accounts"
 images:
 - recap3.svg
 ---

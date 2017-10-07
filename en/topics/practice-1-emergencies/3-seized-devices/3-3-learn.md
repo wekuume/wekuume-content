@@ -1,5 +1,5 @@
 ---
-title: Content and documents
+title: "Content and documents"
 images:
 - recap2.svg
 ---

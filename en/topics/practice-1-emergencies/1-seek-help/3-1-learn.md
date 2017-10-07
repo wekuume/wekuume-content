@@ -1,5 +1,5 @@
 ---
-title: Unencrypted channels
+title: "Unencrypted channels"
 images:
 - recap1.svg
 ---

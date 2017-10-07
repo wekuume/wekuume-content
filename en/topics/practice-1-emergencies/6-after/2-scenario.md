@@ -1,5 +1,5 @@
 ---
-title: Re-evaluating emergency plans
+title: "Re-evaluating emergency plans"
 images:
 - scenario1.svg
 - scenario2.svg

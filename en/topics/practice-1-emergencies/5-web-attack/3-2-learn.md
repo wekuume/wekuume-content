@@ -1,5 +1,5 @@
 ---
-title: Rule out other reasons
+title: "Rule out other reasons"
 image:
 - recap2.svg
 ---

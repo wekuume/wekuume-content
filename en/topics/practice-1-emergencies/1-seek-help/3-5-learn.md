@@ -1,5 +1,5 @@
 ---
-title: Organisations you may reach out to
+title: "Organisations you may reach out to"
 ---
 # Dealing with digital emergencies:
 - Digital Security Helpline - [Access Now](www.accessnow.org)

@@ -1,5 +1,5 @@
 ---
-title: A down website
+title: "A down website"
 image:
 - scenario1.svg
 - scenario2.svg
