@@ -46,3 +46,5 @@ prose:
           element: "text"
           label: "Sections title"
           placeholder: "This is a title"
+
+theme: jekyll-theme-minimal
